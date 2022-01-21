@@ -1,0 +1,22 @@
+#score{
+    font-size: 30px;
+    margin-left: 10px;    
+}
+
+#time{
+    font-size: 30px;
+    
+    margin-right: 5px;
+}
+
+#sketchtobedrawn{
+    color: red;
+}
+
+body{
+    background-color: red;
+}
+
+canvas{
+    border: 2px dotted black;
+}
